@@ -1,0 +1,6 @@
+#ingresar el primer numero 
+numero1 = float( input("ingrese el primer numero: "))
+# ingrese el numero dos 
+numero2 = float( input("ingrese el segundo numero: "))
+suma = numero1+numero2
+print ("la suma de numero 1 y numero 2 es", suma)
