@@ -1,0 +1,5 @@
+# ingrese un numero 
+numero = float(input("ingrese por favor un numero: "))
+#numero elevado al cuadrado 
+elevado = numero ** 2 
+print ("el numero elevado al cuadrado es", elevado)
