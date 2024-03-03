@@ -1,0 +1,5 @@
+print("calcular el area de un triangulo")
+altura = 9
+base = 8
+area = (altura * base)/2
+print ("area de un triangulo area es:",area)
