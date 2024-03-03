@@ -1,0 +1,8 @@
+# escribir un algoritmo que pida el lado de un cuadrado y muestre el valor del area y del perimetro
+lado = float(input("ingrese la longitud del lado del cuadrado: "))
+# calcular el perimetro del cuadrado (lado * lado)
+area = lado ** 2
+#calcular el perimetro del cuadrado ( 4 * lado)
+perimetro = 4 * lado
+print("el area del cuadrado: ", area)
+print("el perimetro del cuadrado es: ", perimetro)
